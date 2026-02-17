@@ -15,4 +15,4 @@
 ## 🌍 Encuéntrame en:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carlosdeljesus)  
 - 🐙 [GitHub](https://github.com/Carlosdev08)  
-- 🗃️  [Portfolio](https://carlosjose.dev) 
+- 🗃️  [Portfolio](https://carlosjose.dev) En construcción ⚙️⚙️
